@@ -1,0 +1,14 @@
+#app{
+  position: relative;
+  box-sizing: border-box;
+  a{
+    text-decoration: none;
+  }
+  .page{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    bottom: 49px;
+  }
+}
