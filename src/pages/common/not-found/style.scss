@@ -4,6 +4,9 @@
   position: relative;
   color: #fff;
   z-index: 100;
+  &.page{
+    bottom: 0;
+  }
   img{
     height: 100%;
     width: 100%;
