@@ -6,7 +6,6 @@ const routes: RouteConfig[] = [
   {
     path: "/home",
     component: lazy(() => import("../pages/home/home/home")),
-    exact: true,
     // children: [
     //   {
     //     path: "/home/index",
