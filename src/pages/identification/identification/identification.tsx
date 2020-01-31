@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import "./style.scss"
-export default class identification extends Component {
+export default class identification extends Component<any, any> {
     render() {
         return (
             <div id="identification" className="page">
