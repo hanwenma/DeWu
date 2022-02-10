@@ -48,6 +48,6 @@
   "devDependencies": {
     "@types/react-router-config": "^5.0.1",
     "http-proxy-middleware": "^0.20.0",
-    "node-sass": "^4.13.1"
+    "node-sass": "^7.0.0"
   }
 }
